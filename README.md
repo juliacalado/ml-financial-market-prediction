@@ -1,6 +1,6 @@
 # Machine Learning for Financial Market Prediction
 
-This project implements a **machine learning pipeline to predict short-term stock market direction** using financial indicators. The goal is to create a simple quantitative trading strategy based on historical market data.
+This project implements a machine learning pipeline to predict short-term stock market direction using financial indicators. The goal is to create a simple quantitative trading strategy based on historical market data.
 
 ## Objective
 
